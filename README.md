@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Flutter Developer**
 
-- 👨‍💻 All of my projects are available at [https://amanrajsinghmourya.github.io/](https://amanrajsinghmourya.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio X Aman](https://amanrajsinghmourya.github.io/)
 
 - 💬 Ask me about **Flutter & CP**
 
