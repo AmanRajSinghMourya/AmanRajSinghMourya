@@ -1,16 +1,15 @@
 <h1 align="left">Hi 👋, I'm Aman Raj</h1>
-<h3 align="left">I'm a Flutter dev and competitive coding enthusiast who loves tackling tough problems. Crafting smooth and snappy apps is my jam, and my competitive programming chops help me keep my code sharp and efficient. Check out my projects to see what I've been up to. Let's create something awesome together!</h3>
-
-- 🌱 I’m currently learning **Flutter & Dart**
-
-- 🤝 I’m looking for help with **Flutter Developer**
+<h4 align="left">I'm a Flutter dev and competitive coding enthusiast who loves tackling tough problems. Crafting smooth and snappy apps is my jam, and my competitive programming chops help me keep my code sharp and efficient. Check out my projects to see what I've been up to. Let's create something awesome together!</h4>
 
 - 👨‍💻 All of my projects are available at [Portfolio X Aman](https://amanrajsinghmourya.github.io/)
+
+- 🔍 Find me [here](https://ente.io/about) 
 
 - 💬 Ask me about **Flutter & CP**
 
 </p>
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -23,8 +22,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </p>
 
+<br>
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=amanrajsinghmourya&color=blueviolet" alt="Profile Views">
+
+<br>
 
 <div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
   
@@ -35,9 +37,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrajsinghmourya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amanrajsinghmourya" height="195" />
 
   <!-- GitHub Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanrajsinghmourya&theme=dracula&margin-w=15&margin-h=15" alt="amanrajsinghmourya" height="195" />
-  </a>
+  <!-- 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=amanrajsinghmourya&theme=dracula&margin-w=15&margin-h=15" alt="amanrajsinghmourya" height="195" />
+    </a>
+  -->
 
 </div>
 
