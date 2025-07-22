@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm Aman Raj</h1>
 <h4 align="left">I'm a Flutter dev and competitive coding enthusiast who loves tackling tough problems. Crafting smooth and snappy apps is my jam, and my competitive programming chops help me keep my code sharp and efficient. Check out my projects to see what I've been up to. Let's create something awesome together!</h4>
 
-- 👨‍💻 All of my projects are available at [Portfolio X Aman](https://amanrajsinghmourya.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://amanrajsinghmourya.github.io/)
 
 - 🔍 Find me [here](https://ente.io/about) 
-
-- 💬 Ask me about **Flutter & CP**
 
 </p>
 
@@ -34,7 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amanrajsinghmourya&show_icons=true&locale=en&theme=tokyonight" alt="amanrajsinghmourya" height="195" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrajsinghmourya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amanrajsinghmourya" height="195" />
+  <!-- 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrajsinghmourya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amanrajsinghmourya" height="195" />
+  -->
 
   <!-- GitHub Profile Trophy -->
   <!-- 
