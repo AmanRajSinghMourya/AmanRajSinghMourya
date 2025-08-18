@@ -20,12 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </p>
 
-<br>
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=amanrajsinghmourya&color=blueviolet" alt="Profile Views">
-
-<br>
-
 <div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
   
   <!-- GitHub Stats -->
