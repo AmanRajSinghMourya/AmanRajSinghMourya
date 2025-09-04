@@ -23,7 +23,10 @@
 <div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
   
   <!-- GitHub Stats -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanrajsinghmourya\&include_all_commits=true\&theme=night\&show_icons=true)
+  <!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=amanrajsinghmourya&show_icons=true&locale=en&theme=tokyonight" alt="amanrajsinghmourya" height="195" />
+  -->
   
   <!-- Top Languages -->
   <!-- 
